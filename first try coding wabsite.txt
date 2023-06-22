@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>WEB SAYA</title>
+        <link rel="stylesheet" href="STYLE.css" />
+    </head>
+    <body>
+      <!-- NAVIGATION BAR -->
+        <div class="container-navbar">
+            <ul>
+                <li>home</li>
+                <li>about me</li>
+                <li>contact me</li>
+            </ul>
+        </div>
+      <!-- NAVIGATION BAR SELESAI -->
+
+      <!-- CONTENT 1 -->
+        <div class="kelas-12">
+            <img src="GAMBAR IKAN.jpg" width="25%" height="25%" />
+        </div>
+      <!-- CONTENT 1 END  -->
+        
+      <!-- FOOTER -->
+        <div class="kelas-11">
+            <h1>hello bro</h1>
+            <h2>hello bro</h2>
+            <h3>hello bro</h3>
+        </div>
+      <!-- FOOTER END -->
+    </body>
+</html>
